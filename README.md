@@ -15,7 +15,7 @@ Welcome to my personal portfolio! This project is a reflection of my growth and 
 - **Google Fonts & FontAwesome:** For typography and icons.
 
 ### 📂 How to View:
-You can view the live version of my portfolio here: **[আপনার লাইভ লিঙ্কটি এখানে দিন]**
+You can view the live version of my portfolio here: **https://shrufaiya99.github.io/Portfolio/**
 
 ---
 *Constantly learning and improving. Currently a student at Creative IT Institute.*
